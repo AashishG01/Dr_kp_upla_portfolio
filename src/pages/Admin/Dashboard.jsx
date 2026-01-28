@@ -1,22 +1,22 @@
 import React, { useState, useEffect } from 'react';
-import { useUser, useClerk } from '@clerk/clerk-react';
 import api, { setAuthToken } from '../../api/client';
 import toast from 'react-hot-toast';
 import { useProfile, useUpdateProfile, usePublications, useCreatePublication, useUpdatePublication, useDeletePublication, useStudents, useCreateStudent, useUpdateStudent, useDeleteStudent, useProjects, useCreateProject, useUpdateProject, useDeleteProject } from '../../hooks/useContent';
 import { Loader2, Save, Plus, Trash2, ChevronDown, ChevronUp, Upload, X } from 'lucide-react';
 
 const Dashboard = () => {
-    const { user } = useUser();
-    const { signOut, session } = useClerk();
+    // const { user } = useUser(); // Removed Clerk
+    // const { signOut, session } = useClerk(); // Removed Clerk
     const [activeTab, setActiveTab] = useState('profile');
 
     useEffect(() => {
-        const setToken = async () => {
-            const token = await session?.getToken();
-            if (token) setAuthToken(token);
-        };
-        setToken();
-    }, [session]);
+        //     // Removed token setting logic as backend is removed
+        //     const setToken = async () => {
+        //         const token = await session?.getToken();
+        //         if (token) setAuthToken(token);
+        //     };
+        //     setToken();
+    }, []);
 
     return (
         <div className="section section-white" style={{ minHeight: '100vh', paddingTop: '6rem', paddingBottom: '4rem' }}>
@@ -24,13 +24,7 @@ const Dashboard = () => {
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '2rem' }}>
                     <h1>Admin Dashboard</h1>
                     <div style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
-                        <span style={{ color: 'var(--text-secondary)' }}>Welcome, {user?.firstName}</span>
-                        <button
-                            onClick={() => signOut()}
-                            style={{ padding: '0.5rem 1rem', background: '#dc3545', color: 'white', border: 'none', borderRadius: '4px', cursor: 'pointer' }}
-                        >
-                            Sign Out
-                        </button>
+                        <span style={{ color: 'var(--text-secondary)' }}>Welcome, Admin</span>
                     </div>
                 </div>
 
