@@ -11,6 +11,42 @@
   "scholar": "https://scholar.google.com/citations?user=your_id",
   "orcid": "",
   "website": "https://sites.google.com/site/kpupla",
+  "highlights": [
+    "CVPR 2020 Best Paper Award",
+    "ERCIM Fellowship @ NTNU",
+    "Recent Journal Publication (2024)"
+  ],
+  "workingOn": [
+    "Real-world Super-Resolution using GANs",
+    "Low-resolution Face Recognition",
+    "Thermal–Visible Image Fusion"
+  ],
+  "themes": [
+    {
+      "title": "Computer Vision & Image Processing",
+      "description": "Exploration of advanced techniques in computer vision and image processing, focusing on object detection, recognition, and restoration."
+    },
+    {
+      "title": "Super-Resolution & GANs",
+      "description": "Developing robust Generative Adversarial Networks (GANs) for single-image and thermal image super-resolution, addressing real-world degradation."
+    },
+    {
+      "title": "Information & Image Fusion",
+      "description": "Research on multi-resolution image fusion, pan-sharpening, and multi-sensor fusion (thermal-visible, biomedical) to combine complementary information."
+    },
+    {
+      "title": "Biomedical & Hyperspectral Imaging",
+      "description": "Processing and analysis of biomedical images for disease diagnosis and hyperspectral images for material classification."
+    },
+    {
+      "title": "Data Security & Watermarking",
+      "description": "Investigation into digital watermarking, reversible watermarking, and data security techniques for copyright protection and authentication."
+    },
+    {
+      "title": "Mathematics & Regularization",
+      "description": "Application of regularization frameworks for solving ill-posed inverse problems in imaging, ensuring stable and accurate reconstructions."
+    }
+  ],
   "researchFocus": [
     "Computer Vision",
     "Image Processing",
