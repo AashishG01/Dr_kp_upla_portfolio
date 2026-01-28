@@ -1,0 +1,742 @@
+[
+    {
+        "id": "book1",
+        "title": "Multi-resolution image fusion in remote sensing",
+        "authors": "Joshi, Manjunath V. and Kishor P. Upla",
+        "venue": "Cambridge University Press",
+        "year": "2019",
+        "type": "Book",
+        "links": {
+            "citation": "Cited by: 8, 1 – 210"
+        }
+    },
+    {
+        "id": "book2",
+        "title": "Transform Domain-Based Learning for Super Resolution Restoration",
+        "authors": "Gajjar, Prakash P., Manjunath V. Joshi, and Kishor P. Upla",
+        "venue": "Book Chapter",
+        "year": "2012",
+        "type": "Book",
+        "links": {
+            "pages": "175 – 216"
+        }
+    },
+    {
+        "id": "j2025_1",
+        "title": "WaveletFusion: enhancing plant leaf disease classification with multi-scale feature extraction and explainable AI",
+        "authors": "Panchananam, Lakshmi Srinivas, Praveen Kumar Chandaliya, Zahid Akhtar, Kishor Upla, and Raghavendra Ramachandra",
+        "venue": "Expert Systems with Applications 285",
+        "year": "2025",
+        "type": "Journal",
+        "links": {}
+    },
+    {
+        "id": "j2022_1",
+        "title": "Compact and progressive network for enhanced single image superresolution—ComPrESRNet",
+        "authors": "Chudasama, Vishal, Kishor Upla, Kiran Raja, Raghavendra Ramachandra, and Christoph Busch",
+        "venue": "Visual Computer 38.11",
+        "year": "2022",
+        "type": "Journal",
+        "links": {
+            "citation": "Cited by: 4, 3643 – 3665"
+        }
+    },
+    {
+        "id": "j2022_2",
+        "title": "A shallow network for hyperspectral image classification using an autoencoder with convolutional neural network",
+        "authors": "Patel, Heena and Kishor P. Upla",
+        "venue": "Multimedia Tools and Applications 81.1",
+        "year": "2022",
+        "type": "Journal",
+        "links": {
+            "citation": "Cited by: 46, 695 – 714"
+        }
+    },
+    {
+        "id": "j2022_3",
+        "title": "Unsupervised Denoising for Super-Resolution (UDSR) of Real-World Images",
+        "authors": "Prajapati, Kalpesh, Vishal Chudasama, Heena Patel, Anjali Sarvaiya, Kishor Upla, Kiran Raja, Raghavendra Ramachandra, and Christoph Busch",
+        "venue": "IEEE Access 10",
+        "year": "2022",
+        "type": "Journal",
+        "links": {
+            "citation": "Cited by: 0; 122329 – 122346"
+        }
+    },
+    {
+        "id": "j2021_1",
+        "title": "E-ComSupResNet: Enhanced Face Super-Resolution through Compact Network",
+        "authors": "Chudasama, Vishal, Kartik Nighania, Kishor Upla, Kiran Raja, Raghavendra Ramachandra, and Christoph Busch",
+        "venue": "IEEE Transactions on Biometrics, Behavior, and Identity Science 3.2",
+        "year": "2021",
+        "type": "Journal",
+        "links": {
+            "citation": "Cited by: 13, 166 – 179"
+        }
+    },
+    {
+        "id": "j2021_2",
+        "title": "Computationally efficient progressive approach for single-image super-resolution using generative adversarial network",
+        "authors": "Chudasama, Vishal and Kishor Upla",
+        "venue": "Journal of Electronic Imaging 30.2",
+        "year": "2021",
+        "type": "Journal",
+        "links": {
+            "citation": "Cited by: 8"
+        }
+    },
+    {
+        "id": "j2021_3",
+        "title": "ThermISRnet: An efficient thermal image super-resolution network",
+        "authors": "Patel, Heena, Vishal Chudasama, Kalpesh Prajapati, Kishor P. Upla, Kiran Raja, Raghavendra Ramachandra, and Christoph Busch",
+        "venue": "Optical Engineering 60.7",
+        "year": "2021",
+        "type": "Journal",
+        "links": {
+            "citation": "Cited by: 4"
+        }
+    },
+    {
+        "id": "j2021_4",
+        "title": "Direct Unsupervised Super-Resolution Using Generative Adversarial Network (DUS-GAN) for Real-World Data",
+        "authors": "Prajapati, Kalpesh, Vishal Chudasama, Heena Patel, Kishor Upla, Kiran Raja, Raghavendra Ramachandra, and Christoph Busch",
+        "venue": "IEEE Transactions on Image Processing 30",
+        "year": "2021",
+        "type": "Journal",
+        "links": {
+            "citation": "Cited by: 31, 8251 – 8264"
+        }
+    },
+    {
+        "id": "j2020_1",
+        "title": "E-ProSRNet: An enhanced progressive single image super-resolution approach",
+        "authors": "Chudasama, Vishal and Kishor Upla",
+        "venue": "Computer Vision and Image Understanding 200",
+        "year": "2020",
+        "type": "Journal",
+        "links": {
+            "citation": "Cited by: 6"
+        }
+    },
+    {
+        "id": "j2018_1",
+        "title": "Consistent pan-sharpening based on multistage joint and dual bilateral filters",
+        "authors": "Joshi, Sharad, Kishor P. Upla, and Nitin Khanna",
+        "venue": "Journal of Applied Remote Sensing 12.2",
+        "year": "2018",
+        "type": "Journal",
+        "links": {
+            "citation": "Cited by: 1"
+        }
+    },
+    {
+        "id": "j2017_1",
+        "title": "A regularized pan-sharpening approach based on self-similarity and Gabor prior",
+        "authors": "Upla, Kishor P., Manjunath V. Joshi, and Nilay Khatri",
+        "venue": "International Journal of Remote Sensing 38.4",
+        "year": "2017",
+        "type": "Journal",
+        "links": {
+            "citation": "949 – 984"
+        }
+    },
+    {
+        "id": "j2015_1",
+        "title": "An edge preserving multiresolution fusion: Use of contourlet transform and MRF prior",
+        "authors": "Upla, Kishor P., Manjunath V. Joshi, and Prakash P. Gajjar",
+        "venue": "IEEE Transactions on Geoscience and Remote Sensing 53.6",
+        "year": "2015",
+        "type": "Journal",
+        "links": {
+            "citation": "Cited by: 66, 3210 – 3220"
+        }
+    },
+    {
+        "id": "j2015_2",
+        "title": "Multi-resolution image fusion using edge-preserving filters",
+        "authors": "Upla, Kishor P., Sharad Joshi, Manjunath V. Joshi, and Prakash P. Gajjar",
+        "venue": "Journal of Applied Remote Sensing 9.1",
+        "year": "2015",
+        "type": "Journal",
+        "links": {}
+    },
+    {
+        "id": "c2025_1",
+        "title": "TUDASR - Transformer Based Unsupervised Domain Adaptive Super-Resolution for Wireless Capsule Endoscopy",
+        "authors": "Sarvaiya, Anjali, Jay Kadel, Kishor Upla, Kiran Raja, and Marius Pederson",
+        "venue": "vol. 15618 LNCS",
+        "year": "2025",
+        "type": "Conference",
+        "links": {
+            "citation": "395 – 409"
+        }
+    },
+    {
+        "id": "c2024_1",
+        "title": "NTIRE 2024 Challenge on Image Super-Resolution (×4): Methods and Results",
+        "authors": "Chen, Zheng... and Kishor Upla... et al.",
+        "venue": "NTIRE 2024",
+        "year": "2024",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 28, 6108 – 6132"
+        }
+    },
+    {
+        "id": "c2024_2",
+        "title": "NTIRE 2024 Challenge on Low Light Image Enhancement: Methods and Results",
+        "authors": "Liu, Xiaoning et al.",
+        "venue": "NTIRE 2024",
+        "year": "2024",
+        "type": "Conference",
+        "links": {
+            "citation": "6571 – 6594"
+        }
+    },
+    {
+        "id": "c2024_3",
+        "title": "Comparative Analysis of Stress Prediction Using Unsupervised Machine Learning Algorithms",
+        "authors": "Maurya, Istuti, Anjali Sarvaiya, Kishor Upla, and Raghavendra Ramachandra",
+        "venue": "vol. 2011 CCIS",
+        "year": "2024",
+        "type": "Conference",
+        "links": {
+            "citation": "261 – 271"
+        }
+    },
+    {
+        "id": "c2024_4",
+        "title": "COMPUSR: Computationally Efficient Unsupervised Super-Resolution Approach for Wireless Capsule Endoscopy",
+        "authors": "Saha, Nirban, Anjali Sarvaiya, Kishor Upla, Kiran Raja, and Marius Pedersen",
+        "venue": "vol. 2010 CCIS",
+        "year": "2024",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 0, 445 – 460"
+        }
+    },
+    {
+        "id": "c2024_5",
+        "title": "Channel Attention Network for Wireless Capsule Endoscopy Image Super-Resolution",
+        "authors": "Sarvaiya, Anjali, Hiren Vaghela, Kishor Upla, Kiran Raja, and Marius Pedersen",
+        "venue": "vol. 2010 CCIS",
+        "year": "2024",
+        "type": "Conference",
+        "links": {
+            "citation": "432 – 444"
+        }
+    },
+    {
+        "id": "c2023_1",
+        "title": "NTIRE 2023 HR NonHomogeneous Dehazing Challenge Report",
+        "authors": "Ancuti, Codruta O. ... Kishor Upla ... et al.",
+        "venue": "NTIRE 2023",
+        "year": "2023",
+        "type": "Conference",
+        "links": {
+            "citation": "1808 – 1825"
+        }
+    },
+    {
+        "id": "c2023_2",
+        "title": "Generative Adversarial Network-Based Improved Progressive Approach for Image SuperResolution: ImProSRGAN",
+        "authors": "Chudasama, Vishal, Heena Patel, Kalpesh Prajapati, Anjali Sarvaiya, and Kishor Upla",
+        "venue": "vol. 952",
+        "year": "2023",
+        "type": "Conference",
+        "links": {
+            "citation": "291 – 305"
+        }
+    },
+    {
+        "id": "c2023_3",
+        "title": "SRTGAN: Triplet Loss Based Generative Adversarial Network for Real-World Super-Resolution",
+        "authors": "Patel, Dhruv, Abhinav Jain, Simran Bawkar, Manav Khorasiya, Kalpesh Prajapati, Kishor Upla, Kiran Raja, Raghavendra Ramachandra, and Christoph Busch",
+        "venue": "vol. 1777 CCIS",
+        "year": "2023",
+        "type": "Conference",
+        "links": {
+            "citation": "31 – 46"
+        }
+    },
+    {
+        "id": "c2023_4",
+        "title": "Comparative Analysis of Generative Adversarial Network-Based Single-Image SuperResolution Approaches",
+        "authors": "Prajapati, Kalpesh, Vishal Chudasama, Heena Patel, Anjali Sarvaiya, and Kishor Upla",
+        "venue": "vol. 952",
+        "year": "2023",
+        "type": "Conference",
+        "links": {
+            "citation": "321 – 335"
+        }
+    },
+    {
+        "id": "c2023_5",
+        "title": "DCAN:DenseNet with Channel Attention Network for Super-resolution of Wireless Capsule Endoscopy",
+        "authors": "Vaghela, Hiren, Anjali Sarvaiya, Pranav Premlani, Abhishek Agarwal, Kishor Upla, Kiran Raja, and Marius Pedersen",
+        "venue": "Conference",
+        "year": "2023",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 2"
+        }
+    },
+    {
+        "id": "c2023_6",
+        "title": "NTIRE 2023 Challenge on Image Super-Resolution (×4): Methods and Results",
+        "authors": "Zhang, Yulun ... Kishor Upla ... et al.",
+        "venue": "NTIRE 2023",
+        "year": "2023",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 42, 1865 – 1884"
+        }
+    },
+    {
+        "id": "c2022_1",
+        "title": "Depthwise Convolution For Compact Object Detector In nighttime Images",
+        "authors": "Patel, Heena, Kalpesh Prajapati, Anjali Sarvaiya, Kishor Upla, Kiran Raja, Raghavendra Ramachandra, and Christoph Busch",
+        "venue": "vol. 2022-June",
+        "year": "2022",
+        "type": "Conference",
+        "links": {
+            "citation": "378 – 388"
+        }
+    },
+    {
+        "id": "c2021_1",
+        "title": "NTIRE 2021 nonhomogeneous dehazing challenge report",
+        "authors": "Ancuti, Codruta O. ... Kishor Upla ... et al.",
+        "venue": "NTIRE 2021",
+        "year": "2021",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 84, 627 – 646"
+        }
+    },
+    {
+        "id": "c2021_2",
+        "title": "Learned smartphone ISP on mobile NPUs with deep learning, mobile AI 2021 challenge: Report",
+        "authors": "Ignatov, Andrey ... Kishor Upla ... et al.",
+        "venue": "Mobile AI 2021",
+        "year": "2021",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 37, 2503 – 2514"
+        }
+    },
+    {
+        "id": "c2021_3",
+        "title": "NTIRE 2021 learning the super-resolution space challenge",
+        "authors": "Lugmayr, Andreas ... Kishor Upla ... et al.",
+        "venue": "NTIRE 2021",
+        "year": "2021",
+        "type": "Conference",
+        "links": {
+            "citation": "596 – 612"
+        }
+    },
+    {
+        "id": "c2021_4",
+        "title": "Channel split convolutional neural network (ChaSNet) for thermal image super-resolution",
+        "authors": "Prajapati, Kalpesh, Vishal Chudasama, Heena Patel, Anjali Sarvaiya, Kishor Upla, Kiran Raja, Raghavendra Ramachandra, and Christoph Busch",
+        "venue": "Conference",
+        "year": "2021",
+        "type": "Conference",
+        "links": {
+            "citation": "4363 – 4372"
+        }
+    },
+    {
+        "id": "c2021_5",
+        "title": "Unsupervised real-world super-resolution using variational auto-encoder and generative adversarial network",
+        "authors": "Prajapati, Kalpesh, Vishal Chudasama, Heena Patel, Kishor Upla, Kiran Raja, Raghavendra Ramachandra, and Christoph Busch",
+        "venue": "vol. 12662 LNCS",
+        "year": "2021",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 3, 703 – 718"
+        }
+    },
+    {
+        "id": "c2021_6",
+        "title": "Unsupervised Single Image Super-Resolution Using Cycle Generative Adversarial Network",
+        "authors": "Prajapati, Kalpesh, Vishal Chudasama, Heena Patel, Kishor Upla, Raghavendra Ramachandra, Kiran Raja, and Christoph Busch",
+        "venue": "vol. 1382",
+        "year": "2021",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 1, 359 – 370"
+        }
+    },
+    {
+        "id": "c2021_7",
+        "title": "Channel Split Convolutional Neural Network for Single Image Super-Resolution (CSISR)",
+        "authors": "Prajapati, Kalpesh, Vishal Chudasama, Kishor Upla, Kiran Raia, Raghavendra Ramachandra, and Christoph Busch",
+        "venue": "Conference",
+        "year": "2021",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 2"
+        }
+    },
+    {
+        "id": "c2021_8",
+        "title": "Thermal image super-resolution challenge - PBVS 2021",
+        "authors": "Rivadeneira, Rafael E. ... Kishor P. Upla ... et al.",
+        "venue": "PBVS 2021",
+        "year": "2021",
+        "type": "Conference",
+        "links": {
+            "citation": "4354 – 4362"
+        }
+    },
+    {
+        "id": "c2020_1",
+        "title": "TherISuRNet - A computationally efficient thermal image super-resolution network",
+        "authors": "Chudasama, Vishal, Heena Patel, Kalpesh Prajapati, Kishor Upla, Raghavendra Ramachandra, Kiran Raja, and Christoph Busch",
+        "venue": "vol. 2020-June",
+        "year": "2020",
+        "type": "Conference",
+        "links": {
+            "citation": "388 – 397"
+        }
+    },
+    {
+        "id": "c2020_2",
+        "title": "Computationally Efficient Super-Resolution Approach for Real-World Images",
+        "authors": "Chudasama, Vishal, Kalpesh Prajapati, and Kishor Upla",
+        "venue": "vol. 1249",
+        "year": "2020",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 1, 143 – 153"
+        }
+    },
+    {
+        "id": "c2020_3",
+        "title": "ISRGAN: Improved Super-Resolution Using Generative Adversarial Networks",
+        "authors": "Chudasama, Vishal and Kishor Upla",
+        "venue": "Advances in Computer Vision. CVC 2019. Advances in Intelligent Systems and Computing, vol 943. Springer, Cham.",
+        "year": "2020",
+        "type": "Book",
+        "links": {
+            "citation": "Cited by: 3, 109 – 127"
+        }
+    },
+    {
+        "id": "c2020_4",
+        "title": "Licence plate identification and recognition for non-helmeted motorcyclists using light-weight convolution neural network",
+        "authors": "Darji, Meghal, Jaivik Dave, Nadim Asif, Chirag Godawat, Vishal Chudasama, and Kishor Upla",
+        "venue": "Conference",
+        "year": "2020",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 10"
+        }
+    },
+    {
+        "id": "c2020_5",
+        "title": "NTIRE 2020 challenge on real-world image super-resolution: Methods and results",
+        "authors": "Lugmayr, Andreas ... Kishor Upla ... et al.",
+        "venue": "NTIRE 2020",
+        "year": "2020",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 168, 2058 – 2076"
+        }
+    },
+    {
+        "id": "c2020_6",
+        "title": "An Approach for Fusion of Thermal and Visible Images",
+        "authors": "Patel, Heena, Kalpesh Prajapati, Vishal Chudasama, and Kishor P. Upla",
+        "venue": "vol. 1214 CCIS",
+        "year": "2020",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 2, 225 – 234"
+        }
+    },
+    {
+        "id": "c2020_7",
+        "title": "Night vision surveillance: Object detection using thermal and visible images",
+        "authors": "Patel, Heena and Kishor P. Upla",
+        "venue": "Conference",
+        "year": "2020",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 18"
+        }
+    },
+    {
+        "id": "c2020_8",
+        "title": "Unsupervised single image super-resolution network (USISResNet) for real-world data using generative adversarial network",
+        "authors": "Prajapati, Kalpesh, Vishal Chudasama, Heena Patel, Kishor Upla, Raghavendra Ramachandra, Kiran Raja, and Christoph Busch",
+        "venue": "vol. 2020-June",
+        "year": "2020",
+        "type": "Conference",
+        "links": {
+            "citation": "1904 – 1913"
+        }
+    },
+    {
+        "id": "c2020_9",
+        "title": "A Light Weight Convolutional Neural Network for Single Image Super-Resolution",
+        "authors": "Prajapati, Kalpesh, Vishal Chudasama, and Kishor Upla",
+        "venue": "vol. 171",
+        "year": "2020",
+        "type": "Conference",
+        "links": {
+            "citation": "139 – 147"
+        }
+    },
+    {
+        "id": "c2020_10",
+        "title": "ComSupResNet: A Compact Super-Resolution Network for Low-Resolution Face Images",
+        "authors": "Rai, Aashish, Vishal Chudasama, Kishor Upla, Kiran Raja, Raghavendra Ramachandra, and Christoph Busch",
+        "venue": "Conference",
+        "year": "2020",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 6"
+        }
+    },
+    {
+        "id": "c2020_11",
+        "title": "Thermal image super-resolution challenge - PBVS 2020",
+        "authors": "Rivadeneira, Rafael E. ... Kishor P. Upla ... et al.",
+        "venue": "PBVS 2020",
+        "year": "2020",
+        "type": "Conference",
+        "links": {
+            "citation": "432 – 439"
+        }
+    },
+    {
+        "id": "c2019_1",
+        "title": "Simulation of analytical chemistry experiments on augmented reality platform",
+        "authors": "Dave, Ishan R., Vikas Chaudhary, and Kishor P. Upla",
+        "venue": "vol. 714",
+        "year": "2019",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 15, 393 – 403"
+        }
+    },
+    {
+        "id": "c2019_2",
+        "title": "A Deep Learning Paradigm for Automated Face Attendance",
+        "authors": "Gupta, Rahul Kumar, Shreeja Lakhlani, Zahabiya Khedawala, Vishal Chudasama, and Kishor P. Upla",
+        "venue": "vol. 1019 CCIS",
+        "year": "2019",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 5, 39 – 50"
+        }
+    },
+    {
+        "id": "c2019_3",
+        "title": "A Fast Approach for Video Deblurring using Multi-Scale Deep Neural Network",
+        "authors": "Gupta, Rahul Kumar and Kishor Upla",
+        "venue": "Conference",
+        "year": "2019",
+        "type": "Conference",
+        "links": {}
+    },
+    {
+        "id": "c2019_4",
+        "title": "NTIRE 2019 challenge on video deblurring: Methods and results",
+        "authors": "Nah, Seungjun ... Kishor Upla ... et al.",
+        "venue": "NTIRE 2019",
+        "year": "2019",
+        "type": "Conference",
+        "links": {
+            "citation": "1974 – 1984"
+        }
+    },
+    {
+        "id": "c2019_5",
+        "title": "AECNN: Autoencoder with Convolutional Neural Network for Hyperspectral Image Classification",
+        "authors": "Patel, Heena and Kishor P. Upla",
+        "venue": "vol. 1019 CCIS",
+        "year": "2019",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 1, 115 – 128"
+        }
+    },
+    {
+        "id": "c2019_6",
+        "title": "An end-to-end real-time face identification and attendance system using convolutional neural networks",
+        "authors": "Rai, Aashish, Rashmi Karnani, Vishal Chudasama, and Kishor Upla",
+        "venue": "Conference",
+        "year": "2019",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 9"
+        }
+    },
+    {
+        "id": "c2017_1",
+        "title": "A robust approach for multi-sensor medical image fusion",
+        "authors": "Chalganje, Sumit V., Ishan R. Dave, and Kishor P. Upla",
+        "venue": "vol. 2018-January",
+        "year": "2017",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 0, 267 – 272"
+        }
+    },
+    {
+        "id": "c2017_2",
+        "title": "Automatic visual inspection of printed circuit board for defect detection and classification",
+        "authors": "Chaudhary, Vikas, Ishan R. Dave, and Kishor P. Upla",
+        "venue": "vol. 2018-January",
+        "year": "2017",
+        "type": "Conference",
+        "links": {
+            "citation": "732 – 737"
+        }
+    },
+    {
+        "id": "c2017_3",
+        "title": "Computer aided diagnosis of Malaria disease for thin and thick blood smear microscopic images",
+        "authors": "Dave, Ishan R. and Kishor P. Upla",
+        "venue": "Conference",
+        "year": "2017",
+        "type": "Conference",
+        "links": {
+            "citation": "561 – 565"
+        }
+    },
+    {
+        "id": "c2017_4",
+        "title": "Bio-medical image fusion based on phase-congruency and guided filter",
+        "authors": "Dhengre, Nikhil, Kishor P. Upla, Heena Patel, and Vishal M. Chudasama",
+        "venue": "vol. 2018-January",
+        "year": "2017",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 6, 628 – 632"
+        }
+    },
+    {
+        "id": "c2017_5",
+        "title": "HDL implementation of digital filters using floating point vedic multiplier",
+        "authors": "Howal, Prashant S., Kishor P. Upla, and Mehul C. Patel",
+        "venue": "vol. 2018-January",
+        "year": "2017",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 10, 274 – 279"
+        }
+    },
+    {
+        "id": "c2017_6",
+        "title": "An automatic detection of helmeted and non-helmeted motorcyclist with license plate extraction using convolutional neural network",
+        "authors": "Mistry, Jimit, Aashish K. Misraa, Meenu Agarwal, Ayushi Vyas, Vishal M. Chudasama, and Kishor P. Upla",
+        "venue": "vol. 2018-January",
+        "year": "2017",
+        "type": "Conference",
+        "links": {
+            "citation": "1 – 6"
+        }
+    },
+    {
+        "id": "c2016_1",
+        "title": "Multimodal biomedical image fusion: Use of log-Gabor and guided filters with non-subsampled contourlet transform",
+        "authors": "Dhengre, Nikhil, Kishor P. Upla, and Ronak D. Trivedi",
+        "venue": "Conference",
+        "year": "2016",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 3, 6 – 11"
+        }
+    },
+    {
+        "id": "c2014_1",
+        "title": "Consistent pan-sharpening based on multistage joint and dual bilateral filters",
+        "authors": "Joshi, Sharad, Kishor P. Upla, and Prashant K. Shah",
+        "venue": "Conference",
+        "year": "2014",
+        "type": "Conference",
+        "links": {
+            "citation": "2522 – 2525"
+        }
+    },
+    {
+        "id": "c2014_2",
+        "title": "Compressed Sensing based pansharpening technique with learned dictionary",
+        "authors": "Patel, Virang and Kishor P. Upla",
+        "venue": "Conference",
+        "year": "2014",
+        "type": "Conference",
+        "links": {
+            "citation": "201 – 204"
+        }
+    },
+    {
+        "id": "c2014_3",
+        "title": "Pan-sharpening: Use of difference of Gaussians",
+        "authors": "Upla, Kishor P., Manjunath V. Joshi, and Prakash P. Gajjar",
+        "venue": "Conference",
+        "year": "2014",
+        "type": "Conference",
+        "links": {
+            "citation": "4922 – 4925"
+        }
+    },
+    {
+        "id": "c2014_4",
+        "title": "An edge preserving multi-resolution image fusion: Use of joint bilateral filter",
+        "authors": "Upla, Kishor P., Sharad Joshi, and Mehul C. Patel",
+        "venue": "Conference",
+        "year": "2014",
+        "type": "Conference",
+        "links": {
+            "citation": "2495 – 2498"
+        }
+    },
+    {
+        "id": "c2013_1",
+        "title": "Multi-resolution image fusion using multistage guided filter",
+        "authors": "Joshi, Sharad, Kishor P. Upla, and Manjunath V. Joshi",
+        "venue": "Conference",
+        "year": "2013",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 4"
+        }
+    },
+    {
+        "id": "c2013_2",
+        "title": "Pan-sharpening based on Non-subsampled Contourlet Transform detail extraction",
+        "authors": "Upla, Kishor P., Prakash P. Gajjar, and Manjunath V. Joshi",
+        "venue": "Conference",
+        "year": "2013",
+        "type": "Conference",
+        "links": {}
+    },
+    {
+        "id": "c2011_1",
+        "title": "Multiresolution fusion using contourlet transform based edge learning",
+        "authors": "Upla, Kishor P., Prakash P. Gajjar, and Manjunath V. Joshi",
+        "venue": "Conference",
+        "year": "2011",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 7, 523 – 526"
+        }
+    },
+    {
+        "id": "c2011_2",
+        "title": "A fast approach for edge preserving super-resolution",
+        "authors": "Upla, Kishor P., Prakash P. Gajjar, Manjunath V. Joshi, Asim Banerjee, and Vineet Singh",
+        "venue": "Conference",
+        "year": "2011",
+        "type": "Conference",
+        "links": {
+            "citation": "Cited by: 3"
+        }
+    }
+]

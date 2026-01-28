@@ -1,0 +1,199 @@
+{
+  "name": "Dr. Kishor Upla",
+  "title": "Associate Professor",
+  "department": "Electronics and Communication Department",
+  "university": "Sardar Vallabhbhai National Institute of Technology (SVNIT)",
+  "location": "Surat, Gujarat, India-395007",
+  "email": "kishorupla@gmail.com",
+  "secondaryEmail": "kpu@eced.svnit.ac.in",
+  "phone": "+91 (261) 220 1701",
+  "mobile": "+91 9998969067",
+  "scholar": "https://scholar.google.com/citations?user=your_id",
+  "orcid": "",
+  "website": "https://sites.google.com/site/kpupla",
+  "researchFocus": [
+    "Computer Vision",
+    "Image Processing",
+    "Machine Learning/Deep Learning",
+    "Object detection/recognition",
+    "Information fusion",
+    "Multi-resolution image fusion/Pan-sharpening",
+    "Image restoration",
+    "Image super-resolution",
+    "Biomedical image fusion",
+    "Multi-spectral and hyperspectral image processing",
+    "Low resolution face recognition",
+    "Medical image processing"
+  ],
+  "introText": "Associate Professor at SVNIT, Surat, specializing in Computer Vision, Image Processing, and Multi-resolution Image Fusion. Experienced researcher with international exposure including ERCIM Post-doctoral Fellowship at NTNU, Norway.",
+  "about": "Dr. Kishor Upla is an Associate Professor in the Electronics and Communication Department at S. V. National Institute of Technology (SVNIT), Surat. He holds a Ph.D. from DA-IICT, Gandhinagar, which he completed in 2016. His key research areas encompass Computer Vision, Image Processing, Machine Learning, and Multi-resolution Image Fusion. He has served as an ERCIM Post-doctoral Fellow at NTNU, Norway, and has been recognized with awards such as the Best Paper Award at IEEE CVPR-2020 workshops.",
+  "education": [
+    {
+      "degree": "Ph.D.",
+      "field": "Information Communication Technology",
+      "institute": "Dhirubhai Ambani Institute of Information Communication Technology (DAIICT), Gandhinagar, India",
+      "year": "2008 - 2016",
+      "details": "Thesis Title: Some new techniques of Multi-resolution Image fusion. Supervisor: Dr. Manjunath V. Joshi",
+      "supervisorLink": "https://sites.google.com/site/manjunathvjoshi/home?authuser=0"
+    },
+    {
+      "degree": "M.E.",
+      "field": "Communication System Engineering",
+      "institute": "L. D. College of Engineering, Ahmedabad, India",
+      "year": "2001 - 2005"
+    },
+    {
+      "degree": "B.E.",
+      "field": "Electronics and Communication",
+      "institute": "Government Engineering College, Modasa, India",
+      "year": "1997 - 2001"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Associate Professor",
+      "department": "Electronics and Communication Department",
+      "organization": "Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat, Gujarat, India",
+      "year": "2023 - Present"
+    },
+    {
+      "role": "ERCIM Post-doctoral Fellowship",
+      "department": "Post-doctoral Research",
+      "organization": "Norwegian University of Science and Technology (NTNU), Gjøvik, Norway",
+      "year": "2019 - 2020",
+      "details": "International Exposure"
+    },
+    {
+      "role": "Assistant Professor",
+      "department": "Electronics and Communication Department",
+      "organization": "Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat, Gujarat, India",
+      "year": "2009 - 2023"
+    },
+    {
+      "role": "Assistant Professor",
+      "department": "Electronics and Communication Department",
+      "organization": "Government Polytechnic, Palanpur, Gujarat, India",
+      "year": "2005 - 2009"
+    },
+    {
+      "role": "Lecturer",
+      "department": "Electronics and Communication Department",
+      "organization": "Sankalchand Patel College of Engineering (SPCE), Visnagar, Gujarat, India",
+      "year": "2002 - 2005"
+    }
+  ],
+  "internationalExposure": [
+    "ERCIM Post-doctoral fellow at Norwegian University of Science and Technology (NTNU), Norway for the duration one year from November 2019 to October 2020.",
+    "Attended and presented our work at INTAP 2020 held physical mode during September 2020 at NTNU, Norway.",
+    "Attended and presented our work CVPR 2020 held virtual mode during June 2020",
+    "Attended and presented our work at IEEE IWBF 2020 held virtual mode during April 2020",
+    "Presented my paper in seventh International Conference on Image Processing Theory, Tools and Applications (IPTA 2017) at Montreal, Canada in December 2017",
+    "Attended Winter School on Machine Learning in Biometrics at Delhi in February 2017",
+    "Attended IEEE International Conference on Identity, Security and Behaviour Analysis at Delhi in February 2017",
+    "Attended International Workshop on Remote Sensing Image Analysis under the India-Trento Program for Advanced Research (ITPAR) Phase-III at Indian Institute of Technology, Bombay, INDIA in April 2016",
+    "Presented my paper in the IEEE International Conference on Image Information Processing (ICIIP -2015) at Jaypee University of Information Technology, Waknaghat, Solan, Himachal Pradesh, INDIA in December 2015",
+    "Presented my papers in the IEEE International Geoscience and Remote Sensing Symposium 2014 (IGARSS-2014) at Quebec, Canada in July 2014",
+    "Presented my papers in the National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG 2013) at Indian Institute of Technology Jodhpur, India in December 2013",
+    "Presented my co-authored paper in the IEEE International Geoscience and Remote Sensing Symposium 2012 (IGARSS-2012) at Munich, Germany in July 2012",
+    "Presented my paper in the IEEE International Geoscience and Remote Sensing Symposium 2011 (IGARSS-2011) at Vancouver, Canada in July 2011",
+    "Presented my paper in the IEEE International Conference on Multimedia and Expo 2011 (ICME-2011) at Barcelona, Spain in July 2011",
+    "Attended the seventh Indian Conference on Vision, Graphics and Image Processing (ICVGIP 2010) at Indian Institute of Technology Chennai, India in December 2010"
+  ],
+  "nationalExposure": [
+    "Attended 2-Days workshop on Emerging Research Topics in Engineering, held at DA-IICT, Gandhinagar, Gujarat, India (July 2009)",
+    "Attended an International Conference on Computer Vision Graphics and Image Processing (ICVGIP-2010), held at IIT, Chennai, India (December 2010)",
+    "Participated two week training program on Strategic planning, management & implementation in technical institutions, held at BBIT, Vallabhvidyanagar, Gujarat, India (November 2007)",
+    "Participated one week training program on Instructional effectiveness of laboratories and lab manual development (phase-II), held at NITTTR Bhopal, Mahyapradesh, India (February 2008)",
+    "Participated one week training program on TCP/IP based computer networks, held at NITTTR Chandigarh, India (March 2008)",
+    "Participated one week training program on Advanced engineering optimization through intelligent techniques, held at SVNIT Surat, Gujarat, India (July 2009)",
+    "Participated one week training program on Pedagogy and Research Methodology, held at SVNIT Surat, Gujarat, India (August 2009)",
+    "Participated one week training program on Mathematical applications in real world problems, held at SVNIT Surat, Gujarat, India (December 2009)",
+    "Participated one week training program on Compiler design using Matlab, held at Chitkara University, Chandigarh, India (June 2010)",
+    "Conference/workshop/STTP/FDP Organization at SVNIT, Surat:",
+    "Organized 4th International Conference on Emerging Technology Trends in Electronics, Communication and Networking (ET2ECN), 2021 as General Chair during 17-18th November, 2021.",
+    "Organized two days workshop on paper and article writing with Latex (13-14/08/’16)",
+    "Organized one day workshop on basics of opencv and python (15/10/’15)",
+    "Organized three days workshop on Hands-on practice on latex (7-9/10/’16)",
+    "Organized three days workshop on image processing using opencv and python (3-5/12/’16)",
+    "Organized STTP on paper and article writing with Latex (21-25/1/’17)",
+    "Organized finishing school on machine learning using opencv and python (18-19/3/’17)",
+    "Organized STTP on paper and article writing with Latex (10-14/12/’17)",
+    "Organized STTP on Advancements in wireless and optical communication (21-25/12/’17)",
+    "Organized five days Workshop on Latex training (19-23/1/’18)"
+  ],
+  "awards": [
+    {
+      "title": "Summer Research Visit (May to July 2023)",
+      "organization": "Norwegian University of Science and Technology (NTNU), Gjøvik, Norway",
+      "year": "2023"
+    },
+    {
+      "title": "ERCIM Post-doctoral Fellowship (2019-2020)",
+      "organization": "Norwegian University of Science and Technology (NTNU), Gjøvik, Norway",
+      "year": "2019",
+      "link": "https://fellowship.ercim.eu/former_fellows"
+    },
+    {
+      "title": "Best paper award at IEEE CVPR-2020 workshops in PBVS",
+      "organization": "CVPR International Conference",
+      "year": "2020",
+      "link": "http://vcipl-okstate.org/pbvs/20/awards.html"
+    },
+    {
+      "title": "Challenge Winner in IEEE PBVS CVPR-2020 workshop",
+      "organization": "CVPR International Conference",
+      "year": "2020",
+      "link": "http://vcipl-okstate.org/pbvs/20/challenge.html"
+    },
+    {
+      "title": "Recipient of Travels Grant Support of USD $1205",
+      "organization": "IEEE Geoscience and Remote Sensing Society (GRSS)",
+      "year": "2014"
+    },
+    {
+      "title": "Recipient of Asian Travel Grant of USD $750",
+      "organization": "IEEE Geoscience and Remote Sensing Society (GRSS)",
+      "year": "2011"
+    },
+    {
+      "title": "Recipient of Student Travel Grant Support of USD $500",
+      "organization": "IEEE International Conference on Multimedia and Expo (ICME)",
+      "year": "2011"
+    }
+  ],
+  "memberships": [
+    "Senior Member of Institute of Electrical and Electronics Engineers (IEEE) (2023 - Present)",
+    "Member of Institute of Electrical and Electronics Engineers (IEEE) (2015 - 2022)",
+    "Student member of Institute of Electrical and Electronics Engineers (IEEE) (2009 - 2015)",
+    "Member of Indian Society for Technical Education (ISTE) (2002 - 2005)"
+  ],
+  "skills": [
+    "Programming: Matlab, C, Python",
+    "Publishing Softwares: Latex, MS Office"
+  ],
+  "languages": [
+    "Gujarati (Native)",
+    "Hindi, English (Fluent)"
+  ],
+  "interests": [
+    "Cricket",
+    "Volleyball"
+  ],
+  "references": [
+    {
+      "name": "Dr. Manjunath V. Joshi",
+      "title": "Professor",
+      "institute": "DAIICT, Gandhinagar",
+      "address": "Post Bag No. 4, DAIICT, Gandhinagar, Gujarat, India.",
+      "email": "mvjoshi@daiict.ac.in",
+      "phone": "+91 (79) 3051 0611"
+    },
+    {
+      "name": "Dr. Raghvendra Ramachandra",
+      "title": "Professor",
+      "institute": "NTNU, Norway",
+      "address": "Teknologiveien 22, 2815 Gjøvik, Norway",
+      "email": "raghavendra.ramachandra@ntnu.no"
+    }
+  ]
+}

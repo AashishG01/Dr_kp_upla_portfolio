@@ -1,0 +1,37 @@
+{
+    "phd": [
+        {
+            "name": "Dr. Vishal Chudasama",
+            "status": "Graduated",
+            "topic": "Compact Progressive Approaches for Single Image Super-Resolution using Generative Adversarial Network",
+            "workedOn": "Super-Resolution, GANs",
+            "outcome": "Thesis Defended (2021). Currently Senior Engineer at Sony Research India.",
+            "startYear": "2016",
+            "endYear": "2021",
+            "link": "https://www.sonyresearchindia.com/people/"
+        },
+        {
+            "name": "Dr. Heena Patel",
+            "status": "Graduated",
+            "topic": "Night Vision Thermal Image Enhancement for Object Detection using Deep Models",
+            "workedOn": "Thermal Imaging, Object Detection",
+            "outcome": "Thesis Defended (2022). Currently Staff Computer Vision Research Engineer at Akeso EyeCare.",
+            "startYear": "2017",
+            "endYear": "2022",
+            "link": "https://www.akesoeyecare.com/"
+        },
+        {
+            "name": "Dr. Kalpesh Prajapati",
+            "status": "Graduated",
+            "topic": "Unsupervised Single Image Super-Resolution Approaches using Generative Adversarial Network",
+            "workedOn": "Unsupervised Super-Resolution, GANs",
+            "outcome": "Thesis Defended (2024). Currently Senior Data Scientist at Ford Motors.",
+            "startYear": "2018",
+            "endYear": "2024",
+            "link": "https://www.ford.com/"
+        }
+    ],
+    "mtech": [],
+    "btech": [],
+    "interns": []
+}

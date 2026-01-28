@@ -1,0 +1,45 @@
+[
+    {
+        "id": "p1",
+        "title": "CapsNetwork – International Network for Capsule Imaging in Endoscopy",
+        "problem": "Digestive system diseases like inflammatory bowel disease and cancer affect a large population. Early diagnosis is crucial but challenging.",
+        "approach": "Enhance endoscopy images using capsule imaging to aid in the early diagnosis of digestive diseases.",
+        "outcomes": [
+            "International Partner Project between India, Norway, USA, Germany, and China"
+        ],
+        "collaborators": [
+            "Research Council of Norway (RCN)",
+            "India",
+            "USA",
+            "Germany",
+            "China"
+        ],
+        "funding": {
+            "agency": "Research Council of Norway (RCN), Norway",
+            "amount": "≈Rs. 61 Lakhs",
+            "duration": "April 2021 to April 2026"
+        },
+        "status": "Ongoing"
+    },
+    {
+        "id": "p2",
+        "title": "Study And Implementation Of Generative Adversarial Networks (GANs) For Image Super-Resolution: Application To Images Captured Using CCTV Camera",
+        "problem": "CCTV cameras acquire low-resolution images due to distance, making it difficult to detect and solve threat activities.",
+        "approach": "Using GANs to reconstruct high-frequency details and remove acquisition degradations in LR images.",
+        "outcomes": [
+            "3 reputed journal papers (SCI) including IEEE Transactions",
+            "7 International conference papers",
+            "14th rank in NTIRE-2020 'Real-world image Super-resolution' competition (USISResNet model)"
+        ],
+        "collaborators": [
+            "Science and Engineering Research Board (SERB)",
+            "Department of Science and Technology (DST), India"
+        ],
+        "funding": {
+            "agency": "Science and Engineering Research Board (SERB), Department of Science and Technology (DST), India",
+            "amount": "Rs. 23 Lakhs",
+            "duration": "2018-2021"
+        },
+        "status": "Completed"
+    }
+]

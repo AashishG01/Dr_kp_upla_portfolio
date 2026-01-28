@@ -1,0 +1,23 @@
+{
+    "courses": [
+        {
+            "code": "EC211N",
+            "title": "Electronics and Communication",
+            "level": "Core"
+        },
+        {
+            "code": "PG/PhD",
+            "title": "Advanced Computer Vision & Image Processing",
+            "level": "Graduate"
+        }
+    ],
+    "supervision": [
+        "PhD Supervision: 3 Completed, 2 Ongoing",
+        "M.Tech Supervision: 12+ Theses",
+        "B.Tech Projects: 20+ Groups"
+    ],
+    "workshops": [
+        "Winter School on Machine Learning in Biometrics (Delhi, 2017)",
+        "International Workshop on Remote Sensing Image Analysis (IIT Bombay, 2016)"
+    ]
+}
